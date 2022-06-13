@@ -7,3 +7,4 @@
 Добавили текст через браузер. Add english text local.
 
 Add text to end
+*Добавили текс в другой ветке - readmeedit*
